@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CEPRetrofit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Cep">CEP</string>
+    <string name="Consultar">Consultar</string>
 </resources>
